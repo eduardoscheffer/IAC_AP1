@@ -17,10 +17,10 @@
 
 ##
 
-<h3 align="center">Membros:</h3>
+<h3 align="center">Colaboradores:</h3>
 👨‍💻 <a href ="https://github.com/eduardoscheffer" target="_blank">Eduardo Mengue Scheffer</a><br/> 
 👨‍💻 <a href ="https://github.com/joao9570" target="_blank">João Victor Rodrigues de Lima</a><br/>
 👨‍💻 <a href ="https://github.com/LUCASbrms" target="_blank">Lucas Carlos Borges</a><br/>
-👨‍💻 <a href ="https://github.com/joao9570" target="_blank">Fulano</a><br/>
+👨‍💻 <a href ="https://github.com/theopacheco" target="_blank">Théo do Amaral Pacheco</a><br/>
 👨‍💻 <a href ="https://github.com/eduardoscheffer" target="_blank">Fulano</a><br/>
 👨‍💻 <a href ="https://github.com/joao9570" target="_blank">Fulano</a><br/>
