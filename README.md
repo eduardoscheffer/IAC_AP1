@@ -1,5 +1,7 @@
 <h1 align="center">Introdução a Computação - Projeto criado para AP1</h1>
 
+<h2 align="center">Professor(a): <a href ="https://www.linkedin.com/in/mariseh/" target="_blank">Marise Hainzenreder</a><br/> </h2>
+
 <p align="center">Projeto criado para treinarmos comandos git. Criar branches e merges em equipe.</p>
 
 <h3 align="center">Alguns comandos utilizados nesse projeto:</h3>
@@ -16,9 +18,9 @@
 ##
 
 <h3 align="center">Membros:</h3>
-👨‍💻 <a href ="https://github.com/eduardoscheffer" target="_blank">Eduardo Mengue Scheffer</a><br/>
+👨‍💻 <a href ="https://github.com/eduardoscheffer" target="_blank">Eduardo Mengue Scheffer</a><br/> 
 👨‍💻 <a href ="https://github.com/joao9570" target="_blank">João Victor Rodrigues de Lima</a><br/>
-👨‍💻 <a href ="https://github.com/eduardoscheffer" target="_blank">Fulano</a><br/><br/>
+👨‍💻 <a href ="https://github.com/eduardoscheffer" target="_blank">Fulano</a><br/>
 👨‍💻 <a href ="https://github.com/joao9570" target="_blank">Fulano</a><br/>
-👨‍💻 <a href ="https://github.com/eduardoscheffer" target="_blank">Fulano</a><br/><br/>
+👨‍💻 <a href ="https://github.com/eduardoscheffer" target="_blank">Fulano</a><br/>
 👨‍💻 <a href ="https://github.com/joao9570" target="_blank">Fulano</a><br/>
