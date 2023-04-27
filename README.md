@@ -16,4 +16,4 @@
 ##
 
 <h3 align="center">Membros:</h3>
-👨‍💻 <a href ="https://github.com/eduardoscheffer/cs50-week6-pythonFilters" target="_blank">João Victor Rodrigues de Lima</a>
+👨‍💻 <a href ="https://github.com/joao9570" target="_blank">João Victor Rodrigues de Lima</a>
