@@ -16,5 +16,7 @@
 ##
 
 <h3 align="center">Membros:</h3>
-👨‍💻 <a href ="https://github.com/eduardoscheffer" target="_blank">Eduardo Mengue Scheffer</a><br/>
-👨‍💻 <a href ="https://github.com/joao9570" target="_blank">João Victor Rodrigues de Lima</a>
+
+
+| [<img src="https://media.licdn.com/dms/image/D4D03AQF2jr-N1SamBg/profile-displayphoto-shrink_800_800/0/1678360826496?e=1687996800&v=beta&t=1fjp81sLW7YR6ilKw5WrrpgGoBXHGa_m7Jctwqk1cYQ" width=115><br><sub>João Victor Rodrigues de Lima</sub>](https://github.com/joao9570) |  [<img src="https://media.licdn.com/dms/image/C4E03AQGhISvblHqsIg/profile-displayphoto-shrink_800_800/0/1655768213365?e=1687996800&v=beta&t=OodxE1aJLH-J2noFzfZcg2I6VfaPfLI0fDmie6C7cLw" width=115><br><sub>Eduardo Mengue Scheffer</sub>](https://github.com/eduardoscheffer) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: |
