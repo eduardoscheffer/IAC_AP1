@@ -16,4 +16,5 @@
 ##
 
 <h3 align="center">Membros:</h3>
+👨‍💻 <a href ="https://github.com/eduardoscheffer" target="_blank">Eduardo Mengue Scheffer</a><br/>
 👨‍💻 <a href ="https://github.com/joao9570" target="_blank">João Victor Rodrigues de Lima</a>
